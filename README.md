@@ -27,8 +27,7 @@ If you use this code or processed data, please cite:
 
 Park W et al. Pembrolizumab and olaparib in homologous-recombination-deficient metastatic pancreatic cancer: a phase 2 POLAR trial. *Nature Medicine* (2026).
 
-DOI: To be updated upon publication.
-
+If you use this repository, please also cite the archived GitHub release (DOI to be added upon publication).
 ---
 
 ## Correspondence
