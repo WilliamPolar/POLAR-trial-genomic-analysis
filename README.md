@@ -18,3 +18,25 @@ Analyses were performed in R (v4.x). Key packages include ggplot2, dplyr, maftoo
 ## Data access
 Raw sequencing data are protected and available under controlled access subject to institutional review and data transfer agreement.
 Processed analysis datasets and annotated mutation files used in this study are provided here and via Figshare upon publication.
+
+---
+
+## Citation
+
+If you use this code or processed data, please cite:
+
+Park W et al. Pembrolizumab and olaparib in homologous-recombination-deficient metastatic pancreatic cancer: a phase 2 POLAR trial. *Nature Medicine* (2026).
+
+DOI: To be updated upon publication.
+
+---
+
+## Correspondence
+
+For questions regarding data access or analysis:
+
+Wungki Park, MD, MS  
+sPARK Lab  
+David M. Rubenstein Center for Pancreatic Cancer Research  
+Memorial Sloan Kettering Cancer Center  
+Email: parkw1@mskcc.org
