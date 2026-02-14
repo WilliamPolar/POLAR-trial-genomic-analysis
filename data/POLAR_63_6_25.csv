@@ -1,0 +1,68 @@
+POLAR_ID,SAE,Age,Sex,Race,Cohort,Germline_somatic,Mutations,DDR_gene,KRAS,CDKN2A,TILs_Available,TILs ,TIL_Density,TMB,IMPACT_HRD,Neoantigen,PFS_months,PFS_6M,PFS_event,OS,OS_Event,Histology,Tumor_Location,Initial_Stage,Previous_Surgery,Surgery_Type,Platinum_Type,Respons_to_Platinum,CA19_9_T1,CEA_T1,ECOG,WBC,NLR_T1,POLAR_BOR,Best_RECIST
+A01,Grade 3 Acute Kidney Injury,70,F,White,A,g,BRCA2,gBRCA2m,G12V,1,0,NA,NA,3.3,52,149,50.3,1,0,52.5,0,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,43,2.3,1,7.2,1.9,NA,NA
+A02,None,74,M,White,A,g,BRCA2,gBRCA2m,G12V,0,1,4,High,6.6,66,238,1.9,0,1,9.6,1,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,19,2.5,0,6.1,3.4,NA,NA
+A03,Grade 3 diarrhea (unlikely),40,M,White,A,g,BRCA2,gBRCA2m,only cfDNA test available and no variants detected,only ctDNA test available and no variants detected,1,2,Low,NA,NA,NA,20.9,1,0,46.5,0,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,11,1.9,0,6.6,1.9,PR,-63.4
+A04,Grade 3 neutrophil account decreased (unlikely),61,F,White,A,g,BRCA2,gBRCA2m,no DMP,no DMP,0,NA,NA,NA,NA,NA,46.2,1,0,47.6,0,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,NA,2.4,0,5.4,1.9,NA,NA
+A05,None,50,F,White,A,g,BRCA2,gBRCA2m,G12R,0,1,4,High,2.5,42,181,3.4,0,1,9,1,Adenocarcinoma,Body,IV,No,0,Oxaliplatin,PR,346,2,0,4.5,7.6,NA,NA
+A06,"Grade 3 anemia (possible), Grade 4 sepsis (no attribution), Grade 3 choleocystitis (x2)",68,F,White,A,g,PALB2,gPALB2m,DMP only for breast cancer,DMP only for breast cancer,0,NA,NA,NA,NA,NA,35.1,1,0,42.8,0,Adenocarcinoma,Head,II,No,0,Cisplatin,PR,23,4.9,1,13.3,7,SD,-13.1
+A07,"Grade 3 serum amylase increase (possible), Grade 3 lipase increase (possible)",66,M,White,A,g,BRCA2,gBRCA2m,G12V,0,1,3,High,5.8,61,151,36.4,1,0,40.1,0,Adenocarcinoma,Body,IV,No,0,Cisplatin,PR,NA,4.7,0,13.2,6,PR,-61.9
+A08,Grade 3 anemia (possible),65,F,White,A,g,BRCA2,gBRCA2m,G12D,1,1,4,High,6.6,NA,376,36.5,1,0,36.6,0,Adenocarcinoma,Body,IV,No,0,Oxaliplatin,PR,52,4.7,0,5.9,0.7,NA,NA
+A09,None,51,M,Asian,A,g,BRCA1,gBRCA1m,G12D,0,1,4,High,6.6,47,NA,6.1,1,1,11.8,1,Adenocarcinoma,Head,II,Yes,Whipple,Oxaliplatin,SD,20,2,0,17.2,6.5,NA,NA
+A10,Grade 3 anemia (definite) x3,75,M,White,A,g,PALB2,gPALB2m,Undetected,0,1,3,High,1.6,49,690,28.1,1,0,30.9,0,Acinar,Tail,IV,Yes,Distal,Oxaliplatin,PR,69,3.1,0,4.8,1.7,NA,NA
+A11,Grade 3 pneumonitis (definite),81,F,White,A,g,PALB2,gPALB2m,DMP only for breast cancer,DMP only for breast cancer,1,2,Low,NA,NA,NA,9.2,1,1,26.6,1,Adenocarcinoma,Body,III,No,0,Oxaliplatin,PR,31,2.8,1,4.7,1.7,SD,-23.5
+A12 ,None,62,M,White,A,g,BRCA2,gBRCA2m,no DMP,no DMP,0,NA,NA,NA,NA,NA,11.4,1,1,27.7,1,Adenocarcinoma,Head,IV,No,0,Cisplatin,PR,78,3.2,1,4.6,2.7,PR,-39.9
+A13,None,62,F,White,A,g,BRCA2,gBRCA2m,G12D,0,0,NA,NA,4.9,7,8,3.6,0,1,9.9,1,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,92,2.4,0,9.7,7.4,SD,-27.9
+A14,Grade 3 Anemia (probable) x2,68,F,White,A,g,BRCA1,gBRCA1m,G12R,0,0,NA,NA,NA,NA,NA,3.1,0,1,18.1,1,Adenocarcinoma,Tail,IV,No,0,Cisplatin,SD,14982,71,1,5.3,0.4,SD,3.9
+A15,None,57,F,White,A,g,PALB2,gPALB2m,G12V,0,1,3,High,7.4,46,856,2.8,0,1,4.1,1,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,10127,41.6,1,4.6,3.8,SD,-1.6
+A16,None,40,F,White,A,g,BRCA2,gBRCA2m,G12D,0,1,4,High,NA,NA,NA,8.3,1,1,26,0,Adenocarcinoma,Body,IV,No,0,Oxaliplatin,PR,178,1.8,0,3,0.9,PR,-66.4
+A17,None,47,M,White,A,g,BRCA1,gBRCA1m,G12V,0,1,5,High,NA,NA,NA,25.4,1,0,26.9,0,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,20,2.5,0,19.6,12.4,PR,-33.8
+A18,None,36,M,White,A,g,BRCA1,gBRCA1m,only cfDNA test available and no variants detected,only ctDNA test available and no variants detected,1,2,Low,NA,NA,NA,8.8,1,1,25.4,0,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,190,11,1,8.7,2.8,PR,-40.6
+A19,None,62,M,White,A,g,PALB2,gPALB2m,only cfDNA test available and no variants detected,only ctDNA test available and no variants detected,1,1,Low,NA,NA,NA,6.2,1,1,10.6,1,Acinar,Head,IV,No,0,Oxaliplatin,PR,NA,3,0,8.2,8.6,NA,NA
+A20,None,51,M,White,A,g,BRCA2,gBRCA2m,no DMP,no DMP,0,NA,NA,NA,NA,NA,1.9,0,1,4.6,1,Adenosquamous,Head,IV,No,0,Oxaliplatin,PR,991,2.1,1,4.9,2.7,PD,47.2
+A21,None,72,F,White,A,g,BRCA2,gBRCA2m,Q61K,0,1,4,High,NA,4,10,7.6,1,1,9.7,1,Adenocarcinoma,Head,II,Yes,Whipple,Cisplatin,PR,19,1.6,0,4,2.3,PR,-37.2
+A22,Grade 3 Anemia (probable),49,F,White,A,g,BRCA1,gBRCA1m,G12D,0,1,3,High,4.9,11,77,4.1,0,1,13.2,1,Adenocarcinoma,Body,IV,No,0,Cisplatin,PR,13,1.8,0,8.1,2.7,NA,NA
+A23,None,71,F,White,A,g,BRCA2,gBRCA2m,Undetected,1,0,NA,NA,"
+3.3",62,325,20.7,1,0,21.4,0,Acinar,Head,IV,No,0,Cisplatin,PR,74,6.6,1,5.3,4.8,NA,NA
+A24,None,77,F,White,A,g,BRCA2,gBRCA2m,G12V,0,0,NA,NA,1.6,NA,11,1.3,0,1,1.4,0,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,339,4.1,0,7,3.1,PD,54.9
+A25,Grade 3 anemia (definite) x2,74,M,White,A,g,BRCA2,gBRCA2m,cfDNA only,ctDNA only,0,NA,NA,NA,NA,NA,4,0,1,11.1,1,Adenocarcinoma,Body,IV,No,0,Oxaliplatin,PR,57,1.3,1,3.9,2.9,SD,-10.1
+A26,Grade 3 seizure (unrelated),41,F,White,A,g,BRCA1,gBRCA1m,no DMP,no DMP,0,NA,NA,NA,NA,NA,1.9,0,1,6,1,Adenocarcinoma,Head,III,No,0,Oxaliplatin,PR,18,2.7,0,4.3,4.4,PD,109.4
+A27,"Grade 3 fatigue (possible), Grade 3 anorexia (unlikely)",78,M,White,A,g,BRCA2,gBRCA2m,G12V,1,1,4,High,14,NA,460,1.3,0,1,1.5,1,Adenocarcinoma,Head,III,No,0,Oxaliplatin,PR,363,14.9,1,3.6,1,PD,16.5
+A28,Grade 3 abdominal infections (possible),43,M,Asian,A,g,PALB2,gPALB2m,G12R,0,1,4,High,"
+3.3",30,206,13.9,1,1,20.1,0,Adenocarcinoma,Tail,II,Yes,Distal,Oxaliplatin,PR,15,0,0,8.8,0.7,NA,NA
+A29,Grade 3 Anemia (probable) x4,68,M,White,A,g,BRCA1,gBRCA1m,G12D,0,0,NA,NA,2.5,22,230,17.8,1,0,19.4,0,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,SD,66,4.2,0,9.2,7.7,NA,NA
+A30,"Grade 3 anemia (definite), grade 3 neuropathy (unrelated)",51,F,White,A,g,BRCA1,gBRCA1m,,1,0,NA,NA,4.9,NA,NA,6.1,1,1,13.6,0,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,10,1.6,0,6.8,3.4,SD,3.7
+A31,Grade 3 Anemia (probable) x3,61,F,White,A,g,BRCA1,gBRCA1m,Q61H,0,1,3,High,5.8,67,387,5.3,0,1,7,1,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,2137,2.9,1,11.3,5.3,SD,-9.3
+A32,None,57,F,White,A,g,BRCA2,gBRCA2m,no DMP,no DMP,0,NA,NA,NA,NA,NA,16.1,1,0,15.8,0,Adenocarcinoma,Head,III,Yes,Whipple,Oxaliplatin,SD,11,1.5,0,9.2,3.6,NA,NA
+A33,None,57,M,White,A,g,BRCA2,gBRCA2m,Undetected,0,0,NA,NA,4.1,NA,NA,12.2,1,0,14.7,0,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,38,7.7,0,4.3,3.5,SD,-8.2
+B01,None,76,F,White,B,g,ATM,gATMm,G12R,0,1,2,Low,NA,NA,NA,1.8,0,1,23.6,1,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,631,3.5,1,6.9,1.8,PD,26.3
+B02,None,54,M,Asian,B,g,ATM,gATMm,Q61L,1,1,3,High,4.4,40,55,2,0,1,9.7,1,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,NA,5.9,1,4.5,2.2,PD,48.7
+B03,Lipase increased (possible),42,M,White,B,g,ATM,gATMm,Undetected,0,0,NA,NA,0.8,12,119,2,0,1,12,1,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,2639,5.5,1,4.3,6.6,SD,6.6
+B04,None,43,F,White,B,g,CHEK2,gCHEK2m,G12V,0,1,3,High,0.9,NA,29,11.7,1,1,33.2,1,Adenocarcinoma,Head,II,Yes,Whipple,Oxaliplatin,PR,17,2.2,1,2.1,2,NA,NA
+B05,Grade 3 anemia (unlikely),71,F,White,B,g,ATM,gATMm,no DMP,no DMP,0,NA,NA,NA,NA,NA,4.8,0,1,41.9,0,Adenocarcinoma,Body,IV,No,0,Oxaliplatin,SD,70,3.8,0,5.1,3.5,SD,-7.9
+B06,Grade 3 Anemia (probable),57,F,Black,B,g,BLM,gBLMm,Undetected,0,0,NA,NA,14.8,67,1733,39.3,1,0,40.9,0,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,24,18.7,1,3.8,0.7,PR,-42.2
+B07,None,66,M,White,B,g,CHEK2,gCHEK2m,G12D,0,1,3,High,3.3,45,86,4,0,1,11.6,1,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,16,3,0,16.9,37.3,SD,-25.4
+B08,None,71,F,White,B,g,FANCC,gFANCCm,G12D,0,1,2,Low,4.9,49,231,9,1,1,12.9,1,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,49,6.1,1,4.1,5,NA,NA
+B09,Grade 3 duodenal stenosis,65,M,White,B,g,ATM,gATMm,only cfDNA test available and no variants detected,only ctDNA test available and no variants detected,0,NA,NA,NA,NA,NA,6.1,1,1,15.1,1,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,SD,13,3,1,11.7,5.4,SD,-23.3
+B10,None,61,F,White,B,g,ATM,gATMm_gMUTYH,G12D,0,1,5,High,2.5,23,944,11,1,1,27,1,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,25,1.7,0,4.3,0.8,SD,-22.4
+B11,None,60,M,White,B,g,CHEK2,gCHEK2m,G12V,0,1,2,Low,4.9,10,381,1.4,0,1,6,1,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,467,8.5,0,30.6,17.5,PD,48.3
+B12,"Grade 3 diarrhea (definite) x2, Grade 2 cholitis",73,M,White,B,g,ATM,gATMm,G12D,1,0,NA,NA,3.3,32,155,8.8,1,1,18.1,1,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,38,2.1,0,4.3,2.6,SD,-22.3
+B13,None,67,M,White,B,g,MUTYH,gMUTYHm,G12D,0,0,NA,NA,1.6,7,53,4,0,1,14.2,1,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,NA,23.5,1,4.1,1.1,SD,11.2
+B14,G3 Small intestinal obstruction (unrelated),62,F,White,B,g,ATM,gATMm,G12V,0,0,NA,NA,"
+2.5",25,NA,4,0,1,18.2,1,Adenocarcinoma,Body,IV,No,0,Oxaliplatin,PR,383,3.9,2,6.8,6.2,SD,5.6
+B15,None,61,M,White,B,g,"MUTYH, ATM",gATMm_gMUTYH,G12R,0,1,1,Low,"
+1.6",NA,NA,14.5,1,1,28.9,0,Adenocarcinoma,Head,II,Yes,Whipple,Oxaliplatin,PR,49,2,0,3.9,1.8,NA,NA
+C01,None,73,F,White,C,,,,G12D,0,1,2,Low,2.6,26,NA,1.9,0,1,10.7,1,Adenocarcinoma,Body,IV,No,0,Oxaliplatin,PR,19,1.8,0,8.2,6.1,PD,-17
+C02,Stage 3 hyperglycemia (definite),58,F,Asian,C,,,,G12D,1,0,NA,NA,4.9,47,NA,11.6,1,1,19,1,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,18,3,0,5,0.9,CR,-100
+C03,None,70,M,White,C,,,,G12V,1,1,4,High,2.6,NA,27,3.3,0,1,10.4,1,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,144,1.3,0,8.8,4.1,SD,-1.8
+C05,None,70,F,White,C,,,,G12R,1,1,2,Low,2.6,41,153,4.8,0,1,37.5,1,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,1233,8.1,0,3.3,2,SD,-5.6
+C06,None,67,F,Black,C,,,,G12V,1,1,3,High,5.3,12,191,4.7,0,1,25.3,1,Adenocarcinoma,Body,IV,No,0,Oxaliplatin,PR,51,1.4,0,5.7,2.4,SD,2.7
+C07,None,72,F,White,C,,,,G12V,1,1,1,Low,4.4,21,470,4,0,1,10.4,1,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,7,11.2,0,4.2,3.3,SD,-21.7
+C08,None,62,M,White,C,,,,G12I,1,1,1,Low,4.1,2,9,1.3,0,1,6.6,1,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,18542,8.6,0,5.9,2.8,PD,59.5
+C09,None,43,M,White,C,,,,G12L,0,1,2,Low,4.1,28,123,4,0,1,14.5,1,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,28,1.8,1,6.9,6,PR,-47.3
+C10,Grade 3 muccositis (possible),65,F,White,C,,,,G12R,1,1,2,Low,6.6,NA,334,8,1,1,23.8,1,Adenocarcinoma,Body,IV,No,0,Oxaliplatin,PR,36,8.2,1,5.7,3.3,SD,-1.2
+C11,None,58,F,White,C,,,,cfDNA only,cfDNA only,0,NA,NA,NA,NA,NA,1.9,0,1,9.1,1,Adenocarcinoma,Body,IV,No,0,Oxaliplatin,PR,1290,22.8,1,3.5,0.5,PD,10.6
+C12,None,71,F,White,C,,,,G12R,0,1,3,High,NA,NA,NA,1.9,0,1,6.2,1,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,2507,74.3,1,67,32.5,PD,60.4
+C13,None,69,M,White,C,,,,G12D,1,1,2,Low,3.3,1,21,1.9,0,1,5,1,Adenocarcinoma,Tail,IV,No,0,Oxaliplatin,PR,304,3.4,1,6.6,6.4,PD,1.6
+C14,"Grade 3 Biliary obstruction, Grade 3 blood bilirubin increased, Grade 3 duodenal obstruction",46,M,Asian,C,,,,G12D,1,1,2,Low,8.2,37,NA,3.4,0,1,8.5,1,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,737,8.9,0,22.6,8.4,NA,NA
+C15,None,46,M,Asian,C,,,,G12D,1,1,5,High,1.6,19,24,1.3,0,1,8.9,1,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,265,12.2,0,29,14.1,PD,-2.4
+C16,"Grade 3 Anemia (probable), Grade 3 biliary tract infection (unrelated)",62,M,White,C,,,,cfDNA only,cfDNA only,0,NA,NA,NA,NA,NA,2.1,0,1,11.3,1,Adenocarcinoma,Head,IV,No,0,Oxaliplatin,PR,25,1.8,1,6,3.4,PD,NA

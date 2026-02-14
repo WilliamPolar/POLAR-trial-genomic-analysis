@@ -1,0 +1,33 @@
+POLAR_ACCESS_ID,POLAR_ID,Age,Sex,Race,Cohort,Germline_somatic,Mutations,DDR_gene,KRAS,CDKN2A,TILs ,TMB,ntai,lst,hrd_loh,GIS,Neoantigen,PFS_months,PFS_6M,PFS_event,OS,OS_Event,Histology,Tumor_Location,Initial_Stage,Previous_Surgery,Surgery_Type,Prior_Platinum,Platinum_Type,Duration_On_Platinum,Respons_to_Platinum,CA199_T1,CEA_T1,ECOG,Baseline_sites_of_disease,POLAR_BOR,Best_RECIST,cfDNA_CMO_PT_ID,cfDNA_T1,cfDNA_T2,cfDNA_T1_T2_dynamic,Note
+A01_T1,A01,70,F,White,A,g,BRCA2,gBRCA2m,G12V,1,,3.3,20,21,11,52,149,50.3,1,0,52.5,0,Adenocarcinoma,Head,IV,No,0,1,Oxaliplatin,6.02,PR,43,2.3,1,"Pancreas, liver",Undefined,Undefined,C-MXATX5,NA,0,,QC-flagged but likely mRD
+A04_T1,A04,61,F,White,A,g,BRCA2,gBRCA2m,No DMP,No DMP,,, , , , ,,46.2,1,0,47.6,0,Adenocarcinoma,Tail,IV,No,0,1,Oxaliplatin,28.73,PR,,2.4,0,"Pancreas, liver, spleen, lung",Undefined,Undefined,C-W96JRF,0,0.0047,,mRD
+B06_T1,B06,57,F,Black,B,g,BLM,gBLMm,Undetected,0,not suitable for review,14.8,30,24,13,67,1733,39.3,1,0,40.9,0,Adenocarcinoma,Tail,IV,No,0,1,Oxaliplatin,4.6,PR,24,18.7,1,"Pancreas, peritoneum",PR,-42.2,C-1E06M6,0.000911111,0.0005,-0.000411111,mRD
+A08_T1,A08,65,F,White,A,g,BRCA2,gBRCA2m,G12D,1,4,6.6, , , , ,376,36.5,1,0,36.6,0,Adenocarcinoma,Body,IV,No,0,1,Oxaliplatin,3.85,PR,52,4.7,0,"Pancreas, liver, lymph nodes",Undefined,Undefined,C-UKDVNU,0.00014,0.00052,0.00038,near-mRD
+A07_T1,A07,66,M,White,A,g,BRCA2,gBRCA2m,G12V,0,3,5.8,21,27,13,61,151,36.4,1,0,40.1,0,Adenocarcinoma,Body,IV,No,0,1,Cisplatin,4.27,PR,,4.7,0,"Liver, lung",PR,-61.9,C-D5Y09N,0,0.000175,0.000175,near-mRD
+A06_T1,A06,68,F,,A,g,PALB2,gPALB2m,DMP only for breast cancer,DMP only for breast cancer,,, , , , ,,35.1,1,0,42.8,0,Adenocarcinoma,Head,II,No,0,1,Cisplatin,10.39,PR,23,4.9,1,"Pancreas, lungs",SD,-13.1,C-PE2CRP,0.0026,0.001333333,-0.001266667,
+A17_T1,A17,47,M,White,A,g,BRCA1,gBRCA1m,G12V,0,5,, , , , ,,25.4,1,0,26.9,0,Adenocarcinoma,Head,IV,No,0,1,Oxaliplatin,4.2,PR,20,2.5,0,"Pancreas, liver",PR,-33.8,C-A43YMP,0,0,0,
+B15_T1,B15,61,M,White,B,g,"MUTYH, ATM",gATMm_gMUTYH,G12R,0,1,"
+1.6", , , , ,,14.5,1,1,28.9,0,Adenocarcinoma,Head,II,Yes,Whipple,1,Oxaliplatin,8.3,PR,49,2,0,Liver,Undefined,Undefined,C-67KE9M,0,0,,
+B04_T1,B04,43,F,White,B,g,CHEK2,gCHEK2m,G12V,0,3,0.9, , , , ,29,11.7,1,1,33.2,1,Adenocarcinoma,Head,II,Yes,Whipple,1,Oxaliplatin,7.2,PR,17,2.2,1,"Pancreas, ovary",Undefined,Undefined,C-20WTXY,0,0.0005,0.0005,
+C02_T1,C02,58,F,Asian,C,,,,G12D,1,,4.9,21,20,6,47,,11.6,1,1,19,1,Adenocarcinoma,Head,IV,No,0,1,Oxaliplatin,12.1,PR,18,3,0,"Pancreas, liver",CR,-100,C-V1980M,NA,,,
+B10_T1,B10,61,F,White,B,g,ATM,gATMm,G12D,0,5,2.5,14,7,2,23,944,11,1,1,27,1,Adenocarcinoma,Head,IV,No,0,1,Oxaliplatin,6.3,PR,25,1.7,0,"Pancreas, lymph nodes",SD,-22.4,C-VCH6NM,0.000266667,0,-0.000266667,
+B12_T1,B12,73,M,White,B,g,ATM,gATMm,G12D,1,,3.3,12,8,12,32,155,8.8,1,1,18.1,1,Adenocarcinoma,Tail,IV,No,0,1,Oxaliplatin,3.3,PR,38,2.1,0,"Pancreas, lung",SD,-22.3,C-2ALLP6,0,0,0,
+C10_T1,C10,65,F,White,C,,,,G12R,1,2,6.6, , , , ,334,8,1,1,23.8,1,Adenocarcinoma,Body,IV,No,0,1,Oxaliplatin,5.3,PR,36,8.2,1,"Pancreas, liver",SD,-1.2,C-RKFKPH,0,0,0,
+C05_T1,C05,70,F,White,C,,,,G12R,1,2,2.6,23,11,7,41,153,4.8,0,1,37.5,1,Adenocarcinoma,Tail,IV,No,0,1,Oxaliplatin,4.2,PR,1233,8.1,0,"Pancreas, liver, lymph nodes",SD,-5.6,C-X3LP65,0.00065,0.0003625,-0.0002875,
+C06_T1,C06,67,F,Black,C,,,,G12V,1,3,5.3,5,2,5,12,191,4.7,0,1,25.3,1,Adenocarcinoma,Body,IV,No,0,1,Oxaliplatin,7.9,PR,51,1.4,0,"Pancreas, liver, lymph nodes",SD,2.7,C-MU9VP5,0.00042,0.00008,-0.00034,
+B14_T1,B14,62,F,White,B,g,ATM,gATMm,G12V,0,,"
+2.5",12,7,6,25,,4,0,1,18.2,1,Adenocarcinoma,Body,IV,No,0,1,Oxaliplatin,5,PR,383,3.9,2,"Pancreas, liver, adrenal",SD,5.6,C-EKP92C,0.000933333,0.0015,0.000566667,
+B07_T1,B07,66,M,White,B,g,CHEK2,gCHEK2m,G12D,0,3,3.3,18,9,18,45,86,4,0,1,11.6,1,Adenocarcinoma,Head,IV,No,0,1,Oxaliplatin,5.1,PR,16,3,0,"Pancreas, liver",SD,-25.4,C-20X3A6,0,0.002875,0.002875,
+A25_T1,A25,74,M,White,A,g,BRCA2,gBRCA2m,ctDNA only,ctDNA only,,, , , , ,,4,0,1,11.1,1,Adenocarcinoma,Body,IV,No,0,1,Oxaliplatin,2.3,PR,57,1.3,1,"Pancreas, lymph nodes",SD,-10.1,C-XL9D6F,0.0028,0.0089,0.0061,
+C07_T1,C07,72,F,White,C,,,,G12V,1,1,4.4,8,7,6,21,470,4,0,1,10.4,1,Adenocarcinoma,Head,IV,No,0,1,Oxaliplatin,4.6,PR,7,11.2,0,"Pancreas, liver, lymph nodes",SD,-21.7,C-DWPAFN,0,0.006366667,0.006366667,
+B13_T1,B13,67,M,White,B,g,MUTYH,gMUTYHm,G12D,0,not suitable for review,1.6,5,1,1,7,53,4,0,1,14.2,1,Adenocarcinoma,Tail,IV,No,0,1,Oxaliplatin,6.1,PR,,23.5,1,"Pancreas, liver",SD,11.2,C-06VCC5,0,0.011775,0.011775,
+A13_T1,A13,62,F,White,A,g,BRCA2,gBRCA2m,G12D,0,,4.9,2,4,1,7,8,3.6,0,1,9.9,1,Adenocarcinoma,Head,IV,No,0,1,Oxaliplatin,3.9,PR,92,2.4,0,"Pancreas, liver, peritoneum",SD,-27.9,C-2PAR9L,0.000375,0.001225,0.00085,
+C14_T1,C14,46,M,Asian,C,,,,G12D,1,2,8.2,13,18,6,37,,3.4,0,1,8.5,1,Adenocarcinoma,Head,IV,No,0,1,Oxaliplatin,8.6,PR,737,8.9,0,"Pancreas, peritoneum",Undefined,Undefined,C-06RAKJ,0,0.003475,0.003475,
+A05_T1,A05,50,F,White,A,g,BRCA2,gBRCA2m,G12R,0,4,2.5,13,19,10,42,181,3.4,0,1,9,1,Adenocarcinoma,Body,IV,No,0,1,Oxaliplatin,5.03,PR,346,2,0,"Pancreas, liver, lymph nodes",Undefined,Undefined,C-PFHLPX,0,0.0092,,
+C03_T1,C03,70,M,White,C,,,,G12V,1,4,2.6, , , , ,27,3.3,0,1,10.4,1,Adenocarcinoma,Head,IV,No,0,1,Oxaliplatin,10.7,PR,144,1.3,0,"Pancreas, peritoneum",SD,-1.8,C-L2L3WM,NA,0.000333333,,
+A14_T1,A14,68,F,White,A,g,BRCA1,gBRCA1m,G12R,0,,, , , , ,,3.1,0,1,18.1,1,Adenocarcinoma,Tail,IV,No,0,1,Cisplatin,5.95,SD,14982,71,1,"Pancreas, liver, lung, bone",SD,3.9,C-WUR9P6,0.0087,0.0056,-0.0031,
+A15_T1,A15,57,F,,A,g,PALB2,gPALB2m,G12V,0,3,7.4,17,21,8,46,856,2.8,0,1,4.1,1,Adenocarcinoma,Tail,IV,No,0,1,Oxaliplatin,4.8,PR,10127,41.6,1,"Pancreas, liver, lung, peritoneum",SD,-1.6,C-NE6H83,0.00195,0.01506,0.01311,
+C01_T1,C01,73,F,White,C,,,,G12D,0,2,2.6,13,11,2,26,,1.9,0,1,10.7,1,Adenocarcinoma,Body,IV,No,0,1,Oxaliplatin,4.6,PR,19,1.8,0,"Pancreas, peritoneum, umbilicus",PD,-17,C-8C7DN5,0,0,0,
+A26_T1,A26,41,F,White,A,g,BRCA1,gBRCA1m,No DMP,No DMP,,, , , , ,,1.9,0,1,6,1,Adenocarcinoma,Head,III,No,0,1,Oxaliplatin,4.1,PR,18,2.7,0,"Pancreas, liver",PD,109.4,C-3REXLX,0.01354,,,
+A02_T1,A02,74,M,White,A,g,BRCA2,gBRCA2m,G12V,0,4,6.6,22,18,26,66,238,1.9,0,1,9.6,1,Adenocarcinoma,Head,IV,No,0,1,Oxaliplatin,3.45,PR,19,2.5,0,"Pancreas, liver",Undefined,Undefined,C-R9EEWC,0,,,
+A20_T1,A20,51,M,White,A,g,BRCA2,gBRCA2m,no DMP,no DMP,,, , , , ,,1.9,0,1,4.6,1,Adenosquamous,Head,IV,No,0,1,Oxaliplatin,4.9,PR,991,2.1,1,"Pancreas, liver, peritoneum",PD,47.2,C-XXKJTU,0.0028,,,
