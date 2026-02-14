@@ -8,6 +8,8 @@ LAPACK: /Library/Frameworks/R.framework/Versions/4.2/Resources/lib/libRlapack.dy
 locale:
 [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
 
+This repository corresponds to Zenodo release v1.0 (DOI: 10.5281/zenodo.18643676).
+
 attached base packages:
 [1] stats     graphics  grDevices utils     datasets  methods   base     
 
